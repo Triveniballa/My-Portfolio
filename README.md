@@ -71,11 +71,4 @@ The website fully adapts to:
 
 ---
 
-## 📸 Optional (If required by assignment)
-You can add screenshots of:
-- Desktop view  
-- Tablet view  
-- Mobile view  
-
----
 
